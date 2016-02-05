@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<header>
+    <h1>Welcome</h1>
+</header>
+
+<h2>Getting Started</h2>
+<ol>
+    <p> Should You Even Learn Web Dev<p>
+    <p>Websites vs Apps</p>
+    <p>Resources</p>
+    <p>How To Succeed</p>
+    <p>Getting The Code Used In This Course</p>
+    <p>Workflow Preview</p></ol>
+<h2>Configuring Your Environment</h2>
+<ol> Editors - WebStorm
+    <p>Editors - Atom.io</p>
+    <p>Editors - Sublime</p>
+    <p>Terminal Overview</p>
+    <p>Terminal Essentials</p>
+       </ol>
+</body>
