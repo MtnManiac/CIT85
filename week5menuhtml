@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="main.css"/>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<ul>
+    <li><a>Edibles</a></li>
+    <li><a>Hugables</a></li>
+    <li><a>Wearables</a></li>
+    <li><a>Scotch Culture</a></li>
+    <li><a>Scottish Comedy</a></li>
+    <li><a>About</a></li>
+    <li><a>Contact Us</a></li>
+</ul>
+</body>
+</html>
