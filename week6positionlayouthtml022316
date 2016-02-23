@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <link rel="stylesheet" href="main.css">
+    <title>Week 6 Position Layout</title>
+</head>
+<body>
+    <div class="container">
+        <nav>
+            <ul>
+                <li>Home</li>
+                <li>Edibles</li>
+                <li>Home Beautifuls</li>
+                <li>Hugables</li>
+                <li>Wearables</li>
+                <li>Contact</li>
+            </ul>
+        </nav>
+        <main>
+        <p>Description of amazing Celtic handmade gifts here</p>
+
+            <p>Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,
+                Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,
+                Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,
+                Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,
+                Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,
+                Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,</p>
+
+            <p>Last paragraph here</p>
+        </main>
+    </div>
+</body>
+</html>
