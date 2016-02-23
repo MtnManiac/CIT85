@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <link rel="stylesheet" href="main.css">
+    <title>Week 6 Position Relative</title>
+</head>
+<body>
+    <div id="rel1">#1 Relative - Mom!</div>
+    <div id="rel2">#2 Relative - My Awesome Sister</div>
+    <div id="rel3">#3 Relative - Weird Cousin Bob</div>
+</body>
+</html>
