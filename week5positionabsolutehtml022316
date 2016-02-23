@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <link rel="stylesheet" href="main.css">
+    <title>Week 6 Position Absolute</title>
+</head>
+<body>
+    <div class="relative"> (Can't choose your) Relative(s)</div>
+    <div class="absolute">Absolute (power corrupts absolutely)</div>
+    </body>
+</html>
