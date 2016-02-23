@@ -1,0 +1,36 @@
+*{
+    border: 2px double saddlebrown;
+}
+
+div {
+    height: 150px;
+    width: 100px;
+    background: burlywood;
+}
+#rel1 {
+    background-color: darkgoldenrod;
+    margin-right: 20px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 5px solid black;
+    box-sizing: border-box;
+    }
+
+#rel2 {
+     position: relative;
+     top: 20px;
+     left: 20px;
+     background-color: bisque;
+     text-align: center;
+     padding-top: 20px;
+
+ }
+    #rel3 {
+        position: relative;
+        top: 40px;
+        left: 20px;
+        background-color: chocolate;
+        text-align: center;
+
+    }
