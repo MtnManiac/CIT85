@@ -1,0 +1,25 @@
+*{
+    border: 2px double saddlebrown;
+}
+
+div {
+        background: burlywood;
+}
+.relative {
+    background-color: darkgoldenrod;
+    position: relative;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    }
+
+.absolute {
+     position: absolute;
+     top: 20px;
+     left: 20px;
+     background-color: bisque;
+     text-align: center;
+     padding-top: 10px;
+
