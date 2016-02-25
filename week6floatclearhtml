@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+
+<div class="floated"><h4>One Scotch...</h4></div>
+<div class="floated"><h4>Two Scotch...</h4></div>
+<div class="floated"><h4>Three Scotch...</h4></div>
+<div class="cleared"><h1>FLOOR.</h1></div>
+</body>
+</html>
