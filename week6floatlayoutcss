@@ -1,0 +1,17 @@
+
+nav{
+    width: 20%;
+    float: left;
+}
+
+div{
+   border: 1px solid black;
+    border-radius: 10%;
+    background-color: #00FF00;
+}
+main{
+    width: 60%;
+    border: 1px solid blue;
+    background-color: skyblue;
+    float: left;
+}
