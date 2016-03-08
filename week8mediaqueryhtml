@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" media="screen and (min-width: 900px)" href="900+.css">
+    <link rel="stylesheet" media="screen and (max-width: 899px) and (min-width: 600px)" href="600-899.css">
+    <link rel="stylesheet" media="print" href="print.css">
+
+</head>
+<body>
+<h1>Gonna' be</h1>
+<img height=300px width=200px src="TheDonald.jpg" alt="Johnny Depp as Donald Trump">
+<H1>HELL TOUPEE</H1>
+
+
+</body>
+</html>
+
+
