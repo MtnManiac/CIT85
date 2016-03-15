@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+          <link rel="stylesheet" href="main.css">
+</head>
+<body>
+<h2> Em & Rem Size Examples</h2>
+
+<img src="EmNRem.jpg" alt="Em N Rem">
+<p>fun size: 1em page relative</p>
+<h3>One Size Fits All: 2em page relative</h3>
+
+    <article>
+        <h2>SUPER SIZE: 1rem local relative</h2>
+        <h1>Super-SUPER SIZE:  2rem local relative</h1>
+    </article>
+</body>
+</html>
