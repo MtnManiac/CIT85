@@ -1,0 +1,19 @@
+body{
+    font-size: 100%;
+}
+
+h3 {
+    font-size: 2em;
+}
+
+header {
+    font-size: 2em;
+}
+
+article {
+    font-size: 1rem;
+}
+
+h1{
+    font-size: 2rem;
+}
