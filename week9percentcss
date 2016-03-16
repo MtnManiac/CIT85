@@ -1,0 +1,22 @@
+body{
+    font-size: 24px;
+}
+
+img {
+    padding-left: 80px;
+}
+aside {
+    border: 5px solid red;
+    width: 400px;
+    float: right
+    display: flex;
+    flex-wrap: wrap-reverse;
+
+}
+
+.two {
+    font-size: 150%;
+
+}
+
+
