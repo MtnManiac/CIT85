@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+          <link rel="stylesheet" href="main.css">
+</head>
+<body>
+<h2> HTML Percentage & Relation to Parent</h2>
+    <aside>
+        <p class="one">When using %, HTML is like the tough love of the coding world...[24px]</p>
+        <img src="motherwithpunkchild.jpg" alt="Mom and punk child">
+<div>
+    <p class="two">Children have no choice but to be related [150%]</p>
+</div>
+    </aside>
+</body>
+</html>
