@@ -1,0 +1,58 @@
+body {
+    background: url(img/fog.jpg) no-repeat top fixed;
+    background-size: cover;
+    background-color: darkturquoise;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+}
+
+.header {
+    color: #094562;
+    text-align: center;
+}
+
+.content{
+    color: white;
+}
+
+.box-1 {
+    background-color: lightblue;
+    opacity: .7;
+    height:250px;
+    width: auto;
+    text-align: center;
+    margin: 20px 20px 20px 20px;
+    border-radius: 10px;
+}
+
+.box-2 {
+    background-color: skyblue;
+    opacity: .7;
+    height:250px;
+    width: auto;
+    text-align: center;
+    margin: 20px 20px 20px 20px;
+    border-radius: 10px;
+}
+
+.box-3 {
+    background-color: deepskyblue;
+    opacity: .7;
+    height:250px;
+    width: auto;
+    text-align: center;
+    margin: 20px 20px 20px 20px;
+    border-radius: 10px;
+}
+
+.box-4 {
+    background-color: darkturquoise;
+    opacity: .7;
+    height:250px;
+    width: auto;
+    text-align: center;
+    margin: 20px 20px 20px 20px;
+    border-radius: 10px;
+}
+
