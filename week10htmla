@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Refactor</title>
+    <link href="main.css" rel="stylesheet">
+</head>
+<body>
+<div class="wrap">
+    <div class="header">
+
+    </div>
+    <div class="nav">
+        <nav>
+            <ul>
+                <li>Home/</li>
+                <li>Order Status/</li>
+                <li>View Cart/</li>
+                <li>Checkout/</li>
+                <li>Customer Service</li>
+            </ul>
+        </nav>
+    </div>
+   </div>
+</body>
+</html>
