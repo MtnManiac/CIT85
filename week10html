@@ -1,0 +1,19 @@
+ul {
+    list-style-type: none;
+}
+
+li {
+    /*border: 2px solid red;*/
+    border-radius: 50px;
+    display: inline-block;
+}
+
+a {
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 50px;
+    display: inline-block;
+}
+
+li:hover {
+    background-color: yellow;
