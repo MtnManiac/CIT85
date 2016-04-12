@@ -1,0 +1,16 @@
+
+body, header {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-image: url('img/parchment.jpg');
+    background-attachment: scroll;
+    justify-content: center;
+    align-items: center;
+    margin-top: 53px;
+}
+
+
+
+
+
