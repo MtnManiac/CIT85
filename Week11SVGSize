@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<svg version="1.1"
+     baseProfile="full"
+     width="300" height="200"
+     xmlns="http://www.w3.org/2000/svg">
+
+    <img id="Bat" style="margin-top: 46px;" src="https://s-media-cache-ak0.pinimg.com/736x/65/7d/b4/657db47bb9ba1193a8975ea3a0c67864.jpg" width="304" height="304">
+
+</svg>
