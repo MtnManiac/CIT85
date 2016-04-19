@@ -1,0 +1,4 @@
+.Icon--twoColors {
+  fill: rebeccapurple;
+  color: mediumturquoise;
+}
