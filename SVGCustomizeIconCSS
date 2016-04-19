@@ -1,0 +1,8 @@
+.MyComponent-button .Icon {
+  /* Change the width and height */
+  font-size: 40px;
+  /* Change the fill color */
+  color: purple;
+  /* Change the vertical-align if you need more precision
+     (sometimes needed for pixel-perfect rendering) */
+  vertical-align: top;
