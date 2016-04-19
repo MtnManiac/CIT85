@@ -1,0 +1,6 @@
+<symbol id="check" viewBox="0 0 20 20">
+  <!-- Will inherit the value of the fill CSS property -->
+  <path d="…" />
+  <!-- Will inherit the value of the color CSS property -->
+  <path fill="currentColor" d="…" />
+</symbol>
